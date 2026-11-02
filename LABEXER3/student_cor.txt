@@ -1,0 +1,37 @@
+========================================
+       CERTIFICATE OF REGISTRATION
+========================================
+
+---------- STUDENT DETAILS ----------
+Student#: 202511717
+Name (Full Name): Anika Jen B. Ong
+Phone: 09338124298
+College: COMPUTER STUDIES
+Program: BSCSSE
+Year Level: 2
+Address: Quezon City
+
+===================== SUBJECT LIST =====================
+Course Code  Subject Title
+--------------------------------------------------------
+CCS0021      INFORMATION MANAGEMENT (LEC)
+CCS0021L     INFORMATION MANAGEMENT (LAB)
+CS0001       DISCRETE STRUCTURES 1
+CS0003       COMPUTER SYSTEMS & ARCHITECTURE
+CS0003L      COMPUTER SYSTEMS & ARCHITECTURE (LAB)
+CS0070       OBJECT ORIENTED PROGRAMMING
+CS0070L      OBJECT ORIENTED PROGRAMMING-LAB
+GED0021      SPECIALIZED ENGLISH PROGRAM 2
+GED0076      LINEAR ALGEBRA
+GED0081      COLLEGE PHYSICS 1 LECTURE
+GED0081L     COLLEGE PHYSICS 1 LABORATORY
+========================================================
+
+----------- FEE SUMMARY -----------
+Price per unit: PHP 1000.00
+Fee per laboratory subject: PHP 800.00
+Total Units: 21
+Laboratory Subjects: 4
+Tuition Fee: PHP 21000.00
+Laboratory Fee: PHP 3200.00
+TOTAL AMOUNT PAYABLE: PHP 24200.00
