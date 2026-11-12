@@ -1,0 +1,25 @@
+
+---------- CUSTOM BEAR ORDER ----------
+Customer: Anika
+Bear name: Mochi
+          /\
+         /..\
+        ()___()
+        ( o - )
+        (  v  )
+       /|H   H|\
+      / |H___H| \
+        |__O__|
+        /     \
+       (___|___)
+Style: Classic - Php 200
+Expression: Winking - Php 15
+Outfit: Overalls - Php 70
+Accessory: Party Hat - Php 25
+TOTAL: Php 310
+PAYMENT: Php 350
+CHANGE: Php 40
+STATUS: PAID
+--------------------------------------
+ Thank you! Please hug your new friend.
+--------------------------------------
